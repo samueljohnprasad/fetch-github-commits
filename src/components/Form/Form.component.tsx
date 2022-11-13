@@ -17,9 +17,12 @@ export const Form: React.FC<FormTypes> = ({ handleFormSubmit }) => {
   return (
     <div>
       <form onSubmit={onSubmit}>
-        <label>Enter personal token key</label>
-        <input value={inputState} onChange={handleInputChange} />
-        <button type="submit">enter</button>
+        <input
+          value={inputState}
+          onChange={handleInputChange}
+          placeholder="Enter personal token"
+        />
+        <button type="submit">next</button>
       </form>
     </div>
   );
