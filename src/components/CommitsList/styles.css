@@ -1,0 +1,32 @@
+.commit {
+  width: 30%;
+  padding: 10px;
+  color: black;
+  background-color: white;
+  border-radius: 0.5rem;
+  gap: 0.5rem;
+}
+
+.commit-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 5px;
+  padding: 10px;
+  border: 1px solid #d7d4d4;
+  border-radius: 2px;
+}
+
+.commit-author {
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.commit-message {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.commit-time {
+  font-size: 18px;
+}
