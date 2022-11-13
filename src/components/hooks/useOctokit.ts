@@ -1,5 +1,5 @@
 import { Octokit } from "@octokit/core";
-
+import { toast } from "react-toastify";
 import { useCallback, useState } from "react";
 
 export const useOctokit = () => {
@@ -16,17 +16,21 @@ export const useOctokit = () => {
   const getData = useCallback(
     async (owner: string, repo: string) => {
       setIsLoading(true);
+      try {
+        const response = await octokit?.request(
+          "GET /repos/{owner}/{repo}/commits",
+          {
+            owner,
+            repo,
+          }
+        );
 
-      const response = await octokit?.request(
-        "GET /repos/{owner}/{repo}/commits",
-        {
-          owner,
-          repo,
-        }
-      );
-
-      setIsLoading(false);
-      return response?.data;
+        return response?.data;
+      } catch (e: any) {
+        toast.error("something went while fetching data");
+      } finally {
+        setIsLoading(false);
+      }
     },
     [octokit]
   );

@@ -5,6 +5,7 @@ import { useTimer } from "../hooks/useTimer";
 import { Refresher } from "../Refesher/Refresher.component";
 import UserForm from "../UserForm";
 import { CommitsObj, CommitsProps, RepoDetails } from "./types";
+import { toast } from "react-toastify";
 
 export const Commits: React.FC<CommitsProps> = ({ getData }) => {
   const [refresh, setRefresh] = useState(false);
@@ -15,9 +16,7 @@ export const Commits: React.FC<CommitsProps> = ({ getData }) => {
     if (repoDetails) {
       const { owner, repo } = repoDetails;
       const commitsData = await getData(owner, repo);
-
-      console.log({ commitsData });
-      if (commitsData !== undefined) {
+      if (commitsData) {
         setCommits(formatCommits(commitsData));
         setRefresh(true);
       }
@@ -30,6 +29,16 @@ export const Commits: React.FC<CommitsProps> = ({ getData }) => {
   });
 
   const getRepoDetails = (details: RepoDetails) => {
+    if (!details.owner) {
+      toast.error("Enter repo owner username");
+      return;
+    }
+
+    if (!details.repo) {
+      toast.error("Enter valid repo name");
+      return;
+    }
+
     setRepoDetails(details);
     setRefresh(true);
 

@@ -9,10 +9,9 @@ export const Form: React.FC<FormTypes> = ({ handleFormSubmit }) => {
   };
 
   const onSubmit = (event: React.FormEvent) => {
-    if (inputState) {
-      setInputState("");
-      handleFormSubmit({ personalToken: inputState });
-    }
+    handleFormSubmit({ personalToken: inputState });
+    setInputState("");
+
     event.preventDefault();
   };
   return (

@@ -7,8 +7,7 @@ export const UserForm: React.FC<UserFormProps> = ({ submitHandler }) => {
 
   const onSubmit = (event: React.FormEvent) => {
     event.preventDefault();
-
-    if (owner && repo) submitHandler({ owner, repo });
+    submitHandler({ owner, repo });
   };
   return (
     <form onSubmit={onSubmit}>
