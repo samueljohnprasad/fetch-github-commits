@@ -20,7 +20,7 @@ export const Form: React.FC<FormTypes> = ({ handleFormSubmit }) => {
         <input
           value={inputState}
           onChange={handleInputChange}
-          placeholder="Enter personal token"
+          placeholder="Enter github personal token"
         />
         <button type="submit">next</button>
       </form>
