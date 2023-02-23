@@ -12,4 +12,8 @@ function App() {
   );
 }
 
+function Demo() {
+  console.log("DEMO DATA");
+}
+
 export default App;
