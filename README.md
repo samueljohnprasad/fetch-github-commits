@@ -30,3 +30,18 @@ ASAVI COL L
 
  On a closing note, Iwould like to affirm that Sanketh is a dexterous student who faces challenges with verve and vigor and has performed commendably in all his tasks. With
 superlative skills ni programming and a capable intellect to apply theoriesto problems, I would not hesitate tostate that he possesses therequired abilities to cope with the demanding curriculum of the program. Iherebywholeheartedly recommend Mouli Sanketh for pursuing his graduate program at your esteemed University and wish him all the best for his future endeavors.
+
+
+
+
+
+
+
+
+Dear Admission Committee,
+I am glad to endorse Mr. Mouli Sanketh Maturi for admission to a Master’s program at your esteemed university. I have known Sanketh for the past four years, wherein I taught him the theory of Java, Data Structures and Algorithms, and Database Management Systems and also conducted practical sessions for it. Throughout my association with him, I found him to be a sincere and determined person and can confidently assert that he will make for an ideal candidate for the graduate program.
+Having taught him a variety of courses, I can confidently assert that he was one of the class's most active participants. He possessed a sound grasp of computer fundamentals, and his enthusiasm for computers was apparent in his coursework. Sanketh initially hesitated during class interactions, but he gradually improved and became the class's best. I vividly recall him associating classroom learnings with real-world scenarios, which helped make the concepts clear to the entire class. To put it succinctly, he rose by lifting others. He is unquestionably in the top 1% of my students, which is an impressive feat given the thousands of students I have taught.
+He developed a Customer Complaints Analysis Tool in his third year, which analyzes a data set of complaints across multiple parameters. The project makes use of NumPy and pandas to provide valuable insights such as the products with the most complaints, the average time required to resolve a complaint, and areas for improvement. And, most interestingly, it forecasts the number of complaints that may be received on various days of the week, assisting in the planning of support functions. I believe the project has significant value in real-world scenarios and could have a major impact on a product's success.
+    
+   Moreover, Sanketh has been successful in developing an all-around personality by being actively involved in many co-curricular activities. He was an active participant in a variety of college initiatives, including TFI (Teach For Ibrahimbagh), where he taught basic coursework to underprivileged children and helped pave the way for their future success. He also encouraged his peers to get involved and exemplify the impact of such initiatives. He was one of the few candidates who was adored by both students and teachers, which speaks volumes about the kind of person he is. It is through these multifarious traits that he was one of the first candidates to be placed in our campus placements.
+To summarize, Sanketh has the required sincerity, intelligence, commitment, and drive for the graduate program. He is one of the most brilliant students that I have come across in my career as a professor. I would not hesitate to state that he has demonstrated his competence and passion for the subject through focused and dedicated efforts. I believe that he is well equipped to perform in a rigorous academic environment, and I am confident in strongly recommending him for admission at your acclaimed university. I wish him the best in his future endeavors.
