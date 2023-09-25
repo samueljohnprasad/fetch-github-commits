@@ -4,3 +4,9 @@ I had the opportunity to teach him two subjects - Data Structures in the third s
 A.Satya Kumar has the required academic ability and technical acumen to embark upon graduate program. Further grooming would make him a prominent professional.
 I highly recommend A.Satya Kumar for further education at your University.
 
+
+
+I take great pleasure in recommending A.Satya Kumar in his pursuit of higher educational qualification - MSc Computer Science.
+He is a remarkable, young man with, exceptional talent. The most important ingredient of his character is his 'never give up' attitude which stands out and makes a mark in every dimension ofhis life. His strong desire to search deep,I believe, makes him what he is. This added to his passion for the subject gives him a unique edge over his peers and makes him an excellent student. His never ending thirst for knowledge, I am sure, will make him successful when he takes up master's program atyour university. Being a computer student, his keen interest in computational skills and application ofthese skills in the project impressed me a lot. He is always committed, industrious and sincere towards work.
+High grasping power and ability to reason logically seem to come naturally to him. His punctuality and hardworking natue, keep him well ahead of his peers he also maintains a very good rapport with his peers and is a team man. His ability to convince people has always impressed me. Good communication and organizational skills help him to be at the forefront oforganizing seminars and group discussion classes. He has been a good student all his life which is also well supported by his activities.
+I strongly feel that he is worthy of graduate study at your university. In my opinion, a student of his qualities deserves admission into your esteemed university and is well worthy of financial aid.
